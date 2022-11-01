@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto';
+}
+
+.btn-primary{
+    background-color: coral;
+    border-color: lightcoral;
+}
+
+.bg-dark{
+    background-color: #525252;
+}
+
+.lead{
+    color: #525252;
+}
