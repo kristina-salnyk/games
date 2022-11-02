@@ -7,6 +7,13 @@ body{
     border-color: lightcoral;
 }
 
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active{
+    background-color: lightcoral !important;
+    border-color: coral !important;
+}
+
 .bg-dark{
     background-color: #525252;
 }
